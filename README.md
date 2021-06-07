@@ -1,2 +1,3 @@
 # BackAppMensajeria
-Este es un repo que maneja todo el backend con node.js de un aplicación de mensajería genérica como telegram
+this a repo that manage all the back with node.js form generic messenger service app like telegram
+
